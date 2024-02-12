@@ -131,6 +131,6 @@ public class get : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Application.targetFrameRate = 60;
     }
 }
