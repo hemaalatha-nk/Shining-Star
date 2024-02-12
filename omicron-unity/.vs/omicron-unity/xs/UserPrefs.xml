@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{90B7FDA6-0315-6EB5-D3AE-403B15D024CE}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/module-omicron/df3.csv">
+    <Files>
+      <File FileName="Assets/module-omicron/Plot_stars.cs" Line="86" Column="1" />
+      <File FileName="Assets/module-omicron/Scripts/MoveStar.cs" />
+      <File FileName="Assets/module-omicron/Scripts/CVSReader.cs" />
+      <File FileName="Assets/module-omicron/Scripts/constellations.cs" />
+      <File FileName="Assets/module-omicron/ex1.csv" />
+      <File FileName="Assets/module-omicron/get.cs" Line="42" Column="1" />
+      <File FileName="Assets/module-omicron/df.csv" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="omicron-unity" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="module-omicron" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                  <Node name="get.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
